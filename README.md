@@ -23,7 +23,7 @@ $ cd Calc
 
 # Run the app in the Browser
 ```
-![Imgur](https://i.imgur.com/65uqEtW.png)
+![Imgur](https://i.imgur.com/z6KoOsi.png)
 
 ### ✅ Features
 
